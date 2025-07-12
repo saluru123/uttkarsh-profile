@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Uttkarsh Suryaprakash Meshram</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2e6c80;
+        }
+        h1 {
+            border-bottom: 2px solid #2e6c80;
+            padding-bottom: 10px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uttkarsh Suryaprakash Meshram</h1>
+
+    <section>
+        <h2>Overview</h2>
+        <p>Uttkarsh Suryaprakash Meshram (born 23 May 1999) is a governance and public policy professional from Amravati, Maharashtra, known for his field-based research and policy engagement across rural and urban India. With a background in political science and regulatory policy, he has contributed to several government and development projects, often working in collaboration with institutions like the World Bank, Vidhi Centre for Legal Policy, and various state departments. His work focuses on making public systems more accessible, accountable, and reflective of citizens’ lived realities.</p>
+    </section>
+
+    <section>
+        <h2>Early Life and Education</h2>
+        <p>Uttkarsh was born and raised in Amravati. His early education took place in Badnera and Amravati, shaped by a household that deeply valued education and public service. His father, a first-generation learner, served in the Revenue Department of the Government of Maharashtra and retired as a government servant. The untimely loss of his mother while he was in the 5th standard brought early maturity and a deepened sense of responsibility.
+
+Stories of government service narrated by his father sparked an early curiosity in governance. While pursuing his Bachelor of Arts in Political Science from Sant Gadge Baba Amravati University (2021), Uttkarsh resolved to build a career dedicated to public service and policy.
+
+In 2025, he earned his Master’s in Regulatory Policy and Governance from the Tata Institute of Social Sciences (TISS), Mumbai. His academic work emphasized grassroots implementation, impact evaluation, and governance structures in sectors such as agriculture, documentation, and water systems.</p>
+    </section>
+
+    <section>
+        <h2>Career</h2>
+        <h3>Vidhi Centre for Legal Policy</h3>
+        <p>In 2025, Uttkarsh joined the Vidhi Centre for Legal Policy as a Project Fellow, where he led field research in the tribal blocks of Jawhar and Mokhada in Palghar District, Maharashtra. Conducting over 90 interviews with citizens, government officials, and civil society actors, he investigated barriers to accessing basic documents such as caste, birth, and ration certificates. His findings contributed to a policy report submitted to the Chief Minister’s Office of Maharashtra.</p>
+
+        <h3>VANAMATI & POCRA (World Bank Project)</h3>
+        <p>Previously, Uttkarsh served as the district coordinator for Amravati with the Vasantrao Naik State Agricultural Extension Management Institute (VANAMATI) under the World Bank-funded POCRA (Project on Climate Resilient Agriculture). He led a needs assessment across 10 villages in 5 blocks, interviewing over 250 farmers and stakeholders. His study identified regulatory gaps and challenges in climate-resilient agricultural practices. His master’s dissertation at TISS extended this work by evaluating POCRA’s long-term effectiveness through a governance and sustainability lens.</p>
+
+        <h3>Sterlite EdIndia Foundation</h3>
+        <p>Uttkarsh collaborated with the Sterlite EdIndia Foundation on a policy research project exploring global best practices in teacher training across eight countries. He analyzed how these insights could be localized within the Indian education system, aligning with NEP 2020. His recommendations focused on developing a mentorship model for pre-service teachers in Chhattisgarh, aimed at improving classroom-level support.</p>
+
+        <h3>Youth Organisation for Green India (YOGI)</h3>
+        <p>In Jalgaon, Uttkarsh partnered with the Youth Organisation for Green India (YOGI) to lead a qualitative study on urban water governance. Engaging over 20 government officials and political leaders, and conducting 70+ interviews with residents, he explored the complexities of water access, quality, and institutional coordination in a rapidly urbanizing area.</p>
+    </section>
+
+    <section>
+        <h2>Key Themes and Approach</h2>
+        <p>Across all his roles, Uttkarsh has consistently worked to connect high-level policy frameworks with grassroots realities. His guiding belief is that "no policy is complete unless it reflects the lived realities of the people it aims to serve." Whether in rural agriculture, tribal documentation access, or urban water systems, his work seeks to bridge the gap between citizens and institutions.</p>
+    </section>
+
+    <section>
+        <h2>Leadership and Volunteer Work</h2>
+        <ul>
+            <li>Hospitality Head, AML 2025 at TISS</li>
+            <li>School Reviewer, Unifly Collective</li>
+            <li>Digital Outreach Lead, National Sports Day Celebrations at TISS</li>
+            <li>Science Olympiad International Rank: 328 – a formative achievement from school days that continues to inspire his academic commitment</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Personal Life</h2>
+        <p>Uttkarsh is fluent in Marathi, Hindi, and English. He enjoys reading autobiographies, watching documentaries, and playing badminton. He considers his journey a work in progress, shaped by people, communities, and public systems that continue to teach him the meaning of meaningful public service.</p>
+    </section>
+</body>
+</html>
