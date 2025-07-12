@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Uttkarsh Suryaprakash Meshram</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2e6c80;
+        }
+        h1 {
+            border-bottom: 2px solid #2e6c80;
+            padding-bottom: 10px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uttkarsh Suryaprakash Meshram</h1>
+
+    <section>
+        <h2>Overview</h2>
+        <p>Uttkarsh Suryaprakash Meshram (born 23 May 1999) is a governance and public policy professional from Amravati, Maharashtra, known for his field-based research and policy engagement across rural and urban India...</p>
+    </section>
+
+    <section>
+        <h2>Early Life and Education</h2>
+        <p>Uttkarsh was born and raised in Amravati. His early education took place in Badnera and Amravati...</p>
+    </section>
+
+    <section>
+        <h2>Career</h2>
+        <h3>Vidhi Centre for Legal Policy</h3>
+        <p>In 2025, Uttkarsh joined the Vidhi Centre for Legal Policy as a Project Fellow...</p>
+
+        <h3>VANAMATI & POCRA (World Bank Project)</h3>
+        <p>Previously, Uttkarsh served as the district coordinator for Amravati with VANAMATI...</p>
+
+        <h3>Sterlite EdIndia Foundation</h3>
+        <p>Uttkarsh collaborated with the Sterlite EdIndia Foundation on a policy research project...</p>
+
+        <h3>Youth Organisation for Green India (YOGI)</h3>
+        <p>In Jalgaon, Uttkarsh partnered with YOGI to lead a qualitative study on urban water governance...</p>
+    </section>
+
+    <section>
+        <h2>Key Themes and Approach</h2>
+        <p>Across all his roles, Uttkarsh has consistently worked to connect high-level policy frameworks with grassroots realities...</p>
+    </section>
+
+    <section>
+        <h2>Leadership and Volunteer Work</h2>
+        <ul>
+            <li>Hospitality Head, AML 2025 at TISS</li>
+            <li>School Reviewer, Unifly Collective</li>
+            <li>Digital Outreach Lead, National Sports Day at TISS</li>
+            <li>Science Olympiad International Rank: 328</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Personal Life</h2>
+        <p>Uttkarsh is fluent in Marathi, Hindi, and English. He enjoys reading autobiographies, watching documentaries, and playing badminton...</p>
+    </section>
+</body>
+</html>
